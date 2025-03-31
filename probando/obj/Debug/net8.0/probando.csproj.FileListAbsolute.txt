@@ -1,0 +1,15 @@
+/workspaces/Juego-Teatris/probando/bin/Debug/net8.0/probando
+/workspaces/Juego-Teatris/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/Juego-Teatris/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/Juego-Teatris/probando/bin/Debug/net8.0/probando.dll
+/workspaces/Juego-Teatris/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.dll
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/Juego-Teatris/probando/obj/Debug/net8.0/ref/probando.dll
